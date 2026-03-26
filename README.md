@@ -1,5 +1,5 @@
 
-# DeepCSAT – Ecommerce Customer Satisfaction Prediction using Deep Learning
+# E-Commerce Customer Satisfaction Prediction using Deep Learning
 
 ## Project Overview
 

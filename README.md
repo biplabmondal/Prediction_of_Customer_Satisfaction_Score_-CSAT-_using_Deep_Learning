@@ -93,21 +93,9 @@ Visualizations were created using Matplotlib and Seaborn.
 
 ---
 
-# Machine Learning Models Used
+# Deep Learning Models Used
 
-Multiple classification models were tested:
-
-### Logistic Regression
-Baseline model for CSAT prediction.
-
-### Decision Tree Classifier
-Captured non-linear relationships.
-
-### Random Forest Classifier
-Improved accuracy using ensemble learning.
-
-### Gradient Boosting Models
-Enhanced performance using boosting techniques.
+ANN (Artificial Neural Network)
 
 ---
 
@@ -120,7 +108,7 @@ Models were evaluated using:
 - Recall
 - F1 Score
 
-The best-performing model was selected based on balanced performance.
+The best-performing model was selected based on their hyperparameter tuning.
 
 ---
 
@@ -146,19 +134,20 @@ Python
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- tensorflow
 
 ---
 
 # Results
 
-The machine learning model successfully predicts CSAT scores using customer support data. The solution helps ecommerce businesses identify dissatisfied customers and improve service quality.
+The Deep Learning model (ANN) successfully predicts CSAT scores using customer support data. The solution helps ecommerce businesses identify dissatisfied customers and improve service quality.
 
 ---
 
 # Conclusion
 
-This project demonstrates how machine learning can be used to predict customer satisfaction in ecommerce customer support.
+This project demonstrates how deep learning can be used to predict customer satisfaction in ecommerce customer support.
 
-By combining data preprocessing, exploratory data analysis, and classification models, the system provides actionable insights to improve customer experience.
+By combining data preprocessing, exploratory data analysis, and deep learning models, the system provides actionable insights to improve customer experience.
 
 Such predictive systems help businesses enhance service quality, increase retention, and optimize operations.

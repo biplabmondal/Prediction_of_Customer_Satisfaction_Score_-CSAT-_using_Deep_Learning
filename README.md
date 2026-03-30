@@ -14,7 +14,7 @@ By predicting CSAT in advance, businesses can proactively improve customer exper
 # Objectives
 
 ### CSAT Prediction
-Develop a machine learning model to predict customer satisfaction scores.
+Develop a Deep Learning model to predict customer satisfaction scores.
 
 ### Customer Experience Analysis
 Identify key factors affecting customer satisfaction.
